@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="{{ site.baseurl }}/files/resume.pdf" type="application/pdf" width="100%" height="800px" />
 
-<div style="text-align: center; margin-top: 20px;">
-  <p><em>Having trouble viewing the PDF? <a href="{{ site.baseurl }}/files/cv.pdf" target="_blank">Click here to open in a new tab</a></em></p>
-</div>
+<p><a href="/files/resume.pdf" target="_blank" class="btn btn--primary btn--large">📄 View CV (PDF)</a></p>
+ 
