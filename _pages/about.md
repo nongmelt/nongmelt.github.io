@@ -21,68 +21,60 @@ My research focuses on mechanical design, modeling, control, and motion planning
 Projects
 ======
 
-<div class="research-grid">
-  <div class="research-content" markdown="1">
-
 ## Whisker-Inspired Tactile Sensing for Bumper Drone
-  - *Master's Thesis*
-  - Jun 2025 - Aug 2025
-  - 🔗 [[thesis]](/files/Dissertation.pdf) [[code]](https://github.com/nongmelt/mavros_flex_control)
-  
-  Bumper drone with whisker-inspired sensors, Self-recovery collision mechanism inspired by flying insects, achieve 4&deg; pitch oscillations and 0.74&deg; roll oscillations, and remain stability when applying sustained contact with a vertical wall.
 
+**Master's Thesis** | Jun 2025 - Aug 2025  
+🔗 [[thesis]](/files/Dissertation.pdf) [[code]](https://github.com/nongmelt/mavros_flex_control)
+
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 20px 0;">
+  <div style="flex: 2.5;">
+    <p>Bumper drone with whisker-inspired sensors, Self-recovery collision mechanism inspired by flying insects, achieve 4&deg; pitch oscillations and 0.74&deg; roll oscillations, and remain stability when applying sustained contact with a vertical wall.</p>
   </div>
-  <div class="research-media">
-  <img src="videos/thesis.gif" alt="Demo">
+  <div style="flex: 2;">
+    <img src="/videos/thesis.gif" alt="Demo" style="width: 100%; height: auto;">
+  </div>
 </div>
-</div>
-
-<div class="research-grid">
-  <div class="research-content" markdown="1">
 
 ## Teaching by Demonstration for Robotic Handwriting
-  - **Courses: Robot Learning and Teleoperation**
-  - Jan 2025 - April 2025 (Grade: 75/100)
-  - 🔗 [[report & code]](/files/dmp.pdf)
-  
-  DMPs and GMR/WLR based learning by demonstration for robotic handwriting, a model-based PD controller for trajectories tracking of robot manipulator.
 
+**Courses: Robot Learning and Teleoperation** | Jan 2025 - April 2025 (Grade: 75/100)  
+🔗 [[report & code]](/files/dmp.pdf)
+
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 20px 0;">
+  <div style="flex: 2.5;">
+    <p>DMPs and GMR/WLR based learning by demonstration for robotic handwriting, a model-based PD controller for trajectories tracking of robot manipulator.</p>
   </div>
-  <div class="research-media">
-  <img src="videos/dmp.gif" alt="Demo">
+  <div style="flex: 2;">
+    <img src="/videos/dmp.gif" alt="Demo" style="width: 100%; height: auto;">
+  </div>
 </div>
-</div>
-
-<div class="research-grid">
-  <div class="research-content" markdown="1">
 
 ## Adaptive Point-Tracking Control of Cooperative Multi-Robots Box Pushing
-  - **Courses: Robotics System**
-  - Nov 2024 - Dec 2024
-  - 🔗 [[report]](/files/pushing.pdf) [[code]](https://github.com/nongmelt/box_pushing)
-  
-  Adaptive Point-Tracking Control algorithm, enabling two robots to push a box in straight line, compared performance with PID controller and Point-Tracking Control method, achieve 2.3&deg; of yaw error of the box trajectory, and show robustness in dealing with initial box misalignment.
 
+**Courses: Robotics System** | Nov 2024 - Dec 2024  
+🔗 [[report]](/files/pushing.pdf) [[code]](https://github.com/nongmelt/box_pushing)
+
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 20px 0;">
+  <div style="flex: 2.5;">
+    <p>Adaptive Point-Tracking Control algorithm, enabling two robots to push a box in straight line, compared performance with PID controller and Point-Tracking Control method, achieve 2.3&deg; of yaw error of the box trajectory, and show robustness in dealing with initial box misalignment.</p>
   </div>
-  <div class="research-media">
-  <img src="videos/pushing.gif" alt="Demo">
+  <div style="flex: 2;">
+    <img src="/videos/pushing.gif" alt="Demo" style="width: 100%; height: auto;">
+  </div>
 </div>
-</div>
-
-<div class="research-grid">
-  <div class="research-content" markdown="1">
 
 ## Search and Rescue Challenge
-  - **Courses: Robotics System**
-  - Sep 2024 - Nov 2024
-  - 🔗 [[video]](https://www.youtube.com/watch?v=bpetnIimU6M) [[code]](https://github.com/nongmelt/3Pi_SAR)
-  
-  Derived mobile robot's kinematics, Implement PID speed controller. Sensor-based navigation and target detection within constrained environments.
 
+**Courses: Robotics System** | Sep 2024 - Nov 2024  
+🔗 [[video]](https://www.youtube.com/watch?v=bpetnIimU6M) [[code]](https://github.com/nongmelt/3Pi_SAR)
+
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 20px 0;">
+  <div style="flex: 2.5;">
+    <p>Derived mobile robot's kinematics, Implement PID speed controller. Sensor-based navigation and target detection within constrained environments.</p>
   </div>
-  <div class="research-media">
-  <img src="videos/sar.gif" alt="Demo">
-</div>
+  <div style="flex: 2;">
+    <img src="/videos/sar.gif" alt="Demo" style="width: 100%; height: auto;">
+  </div>
 </div>
 
 Past Projects
