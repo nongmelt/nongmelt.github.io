@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Pongporn (Ken) Supa"
   pronouns         : # example: "she/her"  
-  bio              : "MSc Robotics | Ex-Robotics Software Engineer at ARV, Thailand"
+  bio              : "Graduate Student in Robotics | Ex-Robotics Software Engineer at ARV, Thailand"
   location         : "Thailand"
   employer         : "University of Birstol"
   uri              : # URL
@@ -52,7 +52,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : #"bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -216,7 +216,7 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  teaching:
+  experience:
     output: true
     permalink: /:collection/:path/
   publications:
@@ -250,10 +250,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _experience
   - scope:
       path: ""
-      type: teaching
+      type: experience
     values:
       layout: single
       author_profile: true

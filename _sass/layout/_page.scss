@@ -399,3 +399,37 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+.research-grid {
+  display: grid;
+  grid-template-columns: 2.7fr 2.3fr; /* 60% content, 40% media */
+  gap: 2rem;
+  margin: 2rem 0;
+  align-items: start;
+}
+
+.research-content h2 {
+  margin-top: 0; /* Remove top margin from title */
+}
+
+.research-media img {
+  width: 100%;
+  height: auto;
+  min-height: 250px;
+  border-radius: 4px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.research-media video {
+  width: 100%;
+  height: auto;
+  min-height: 250px;
+  border-radius: 4px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+@media (max-width: 768px) {
+  .research-container {
+    flex-direction: column;
+  }
+}
