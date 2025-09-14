@@ -22,7 +22,7 @@ repository               : "nongmelt/nongmelt.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "images/profile.png"
   name             : "Pongporn (Ken) Supa"
   pronouns         : # example: "she/her"  
   bio              : "Graduate Student in Robotics | Ex-Robotics Software Engineer at ARV, Thailand"
