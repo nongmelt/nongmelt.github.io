@@ -11,10 +11,7 @@ redirect_from:
 
 Hello, and welcome! I am a recent graduate with a Master's degree in Robotics from [University of Bristol](https://www.bristol.ac.uk) and [University of the West of England](https://www.uwe.ac.uk/). During my studies, I worked at [Aerial Robotics Group](https://aerialroboticsgroup.github.io/) and [Bristol Robotics Laboratory](https://www.bristolroboticslab.com/), under the supervision of [Dr. Bahadir Kocer](](https://www.uwe.ac.uk/)) and co-supervision of [Dr. Rui Wu](linkedin.com/in/wurui1991)
 
-My research focuses on mechanical design, modeling, control, and motion planning of aerial physical interaction with applications in aerial manipulation and navigation. My goal is to make aerial robotics go beyond being just *flying eyes* into fully functional *flying hands*
-
-
-> **I am currently seeking a PhD position**
+> **I am currently seeking a PhD position in the field of aerial robotics, with particular research interests in: motion planning and flight control, morphological design, bio-inspired, aerial manipulators, and aerial physical interaction**
 
 <a id="project"></a>
 
